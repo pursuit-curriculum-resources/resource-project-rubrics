@@ -8,10 +8,10 @@ You should aim to score _Proficient_ on all of the criteria listed below. Each r
 
 | Rating     | Points | Description                                                                                                                                                                                                                                  |
 | ---------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Novice     | 0      | Code infrequently or rarely uses well-named variables, is appropriately indented, or follows best-practices. Code is generally very messy and difficult to understand.                                                                       |
-| Developing | 1      | Code uses well-named variables, is appropriately indented, and follows best-practices in some but not all files. Code duplication is sparse. The code is of an acceptable quality for a new developer.                                       |
-| Proficient | 2      | Code uses well-named variables, is appropriately indented, and follows best-practices in all files. Code duplication is sparse. The code is of good quality for a new developer and does not contain unnecessary comments or logging.        |
-| Exemplary  | 3      | Code uses well-named variables, is appropriately indented, and follows best-practices in all files. Code does not repeat itself. The code quality is representative of a skilled coder and does not contain unnecessary comments or logging. |
+| Novice     | 1      | Code infrequently or rarely uses well-named variables, is appropriately indented, or follows best-practices. Code is generally very messy and difficult to understand.                                                                       |
+| Developing | 2      | Code uses well-named variables, is appropriately indented, and follows best-practices in some but not all files. Code duplication is sparse. The code is of an acceptable quality for a new developer.                                       |
+| Proficient | 3      | Code uses well-named variables, is appropriately indented, and follows best-practices in all files. Code duplication is sparse. The code is of good quality for a new developer and does not contain unnecessary comments or logging.        |
+| Exemplary  | 4      | Code uses well-named variables, is appropriately indented, and follows best-practices in all files. Code does not repeat itself. The code quality is representative of a skilled coder and does not contain unnecessary comments or logging. |
 
 ### Example
 
@@ -40,10 +40,10 @@ fetch(`${rootURL}objects`)
 
 | Rating     | Points | Description                                                                                                                                                                                     |
 | ---------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Novice     | 0      | The project contains very few commits. Commit messages are generally unhelpful or terse.                                                                                                        |
-| Developing | 1      | The project contains a few commits. Commit messages are somewhat descriptive and helpful.                                                                                                       |
-| Proficient | 2      | The project contains at least twice as many commits as there are days assigned to the project. Commit messages are descriptive and helpful.                                                     |
-| Exemplary  | 3      | The project contains at least twice as many commits as there are days assigned to the project. Commit messages are descriptive and helpful. Each commit only addresses a single bug or feature. |
+| Novice     | 1      | The project contains very few commits. Commit messages are generally unhelpful or terse.                                                                                                        |
+| Developing | 2      | The project contains a few commits. Commit messages are somewhat descriptive and helpful.                                                                                                       |
+| Proficient | 3      | The project contains at least twice as many commits as there are days assigned to the project. Commit messages are descriptive and helpful.                                                     |
+| Exemplary  | 4      | The project contains at least twice as many commits as there are days assigned to the project. Commit messages are descriptive and helpful. Each commit only addresses a single bug or feature. |
 
 ### Example
 
