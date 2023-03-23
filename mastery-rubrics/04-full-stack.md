@@ -1,0 +1,25 @@
+## RESTful routing
+
+| Rating     | Points | Description                                                                                                                                                                                                                                                                                                                                                             |
+| ---------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Novice     | 1      | The server does not make use of proper CRUD RESTful route naming conventions, route methods, or status codes in general. The output of these servers is not consistent or well-formatted for the data being returned.                                                                                                                                                   |
+| Developing | 2      | Most of the routes in the server use proper CRUD RESTful route naming conventions, route methods, and status codes. The output of these servers is relatively consistent and well-formatted for the data being returned.                                                                                                                                                |
+| Proficient | 3      | The server uses proper CRUD RESTful route naming conventions, route methods, and status codes. The output of these servers is consistent and well-formatted for the data being returned.                                                                                                                                                                                |
+| Exemplary  | 4      | The server uses proper CRUD RESTful route naming conventions, route methods, and status codes. Status codes and responses for errors also appropriately fit conventions and are nuanced depending on the type of error that occurs. The output of these servers is consistent and well-formatted for the data being returned and may even follow an industry guideline. |
+
+### Example
+
+A _proficient_ score would mean that the project's server follows all standard conventions regarding routes and responses. The data being returned is well-formatted and includes relevant information. Errors include relevant codes but may not include much relevant data (e.g., a `422` is returned but no clear details on why.)
+
+## Database architecture
+
+| Rating     | Points | Description                                                                                                                                                                                                                                                                                            |
+| ---------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Novice     | 1      | The schema developed by the Fellow has several issues, which be due to not following best practices. Too few tables have been created for the project as described, leading to duplicate data.                                                                                                         |
+| Developing | 2      | The schema developed by the Fellow mostly follows best practices for table names, field names, field types, and key specification. Some fields may use a non-optimal type or be poorly named. An appropriate number of tables have been created, which relate to each other as required.               |
+| Proficient | 3      | The schema developed by the Fellow follows best practices for table names, field names, field types, and key specification. An appropriate number of tables have been created, which relate to each other as required.                                                                                 |
+| Exemplary  | 4      | The schema developed by the Fellow follows best practices for table names, field names, field types, and key specification. An appropriate number of tables have been created, which relate to each other as required. Constraints have been included as part of the schema, to ensure data integrity. |
+
+### Example
+
+A _proficient_ database architecture is one that is able to function assuming a well-intentioned user and interface. Where needed, relational tables have been created and function properly. Field names and types are thoughtfully chosen and make sense for the type of data being recorded. For example, a banking application may include a `transactions` and `users` table which are related through a primary key. Transaction amounts are captured in cents and through positive a negative integers in the same field.
