@@ -6,12 +6,12 @@ You should aim to score _Proficient_ on all of the criteria listed below. Each r
 
 ## Project design
 
-| Rating     | Points | Description                                                                                                                                                                                   |
-| ---------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Novice     | 1      | The project is either unaligned to standard conventions or is too reliant on difficult to read, verbose files.                                                                                |
-| Developing | 2      | The project is largely aligned to standard conventions, although more could be done to split up particularly long or multi-purpose files.                                                     |
-| Proficient | 3      | The project follows standard conventions for that type of project. JavaScript files are not too long, and appropriate care is taken to split code up into well-named and sensible files.      |
-| Exemplary  | 4      | The project is architected like a professional software development project. Files are thoughtful segmented and there are clear program design choices that have been implemented throughout. |
+| Rating     | Points | Description                                                                                                                                                                                                                                                                                            |
+| ---------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Novice     | 1      | The project is either unaligned to standard conventions or is too reliant on difficult to read, verbose files.                                                                                                                                                                                         |
+| Developing | 2      | The project is largely aligned to standard conventions, although more could be done to split up long or multi-purpose files. The project is over-reliant on in-class examples and does not always address the functionality required for this application.                                             |
+| Proficient | 3      | The project follows standard conventions for that type of project. Some original solutions relevant to the project have been implemented.                                                                                                                                                              |
+| Exemplary  | 4      | The project is architected like a professional software development project. Files are thoughtful segmented and there are clear program design choices that have been implemented throughout. The application has implemented original solutions that address the specific challenges of the features. |
 
 ### Example
 
@@ -22,7 +22,7 @@ Scoring _proficient_ in this standard means that the project structure follows b
 | Rating     | Points | Description                                                                                                                                                                                                                                                                 |
 | ---------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Novice     | 1      | The application is largely unusable without guidance from the developer or the website has a poor design that needs visual improvement.                                                                                                                                     |
-| Developing | 2      | The large majority of the application works as expected but has some confusing interactions. Alternatively or additionally, the website is sufficiently well-designed but lacks polish.                                                                                     |
+| Developing | 2      | The large majority of the application works as expected but has some confusing interactions. The application is not full-styled and there are components that rely on default fonts, form styles that don't fit with the design of the rest of the application.             |
 | Proficient | 3      | A user is able to interact with the application with minimal to no obvious errors or mistakes. Any errors that occur display a user-facing message. The website looks well-made and intentional.                                                                            |
 | Exemplary  | 4      | A user is able to interact with the application with no obvious errors or mistakes. Any errors that occur display a helpful user-facing message that is inline with the design of the application. The design of the application is above average and appears professional. |
 

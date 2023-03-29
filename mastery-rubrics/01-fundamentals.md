@@ -6,12 +6,12 @@ You should aim to score _Proficient_ on all of the criteria listed below. Each r
 
 ## Code quality
 
-| Rating     | Points | Description                                                                                                                                                                                                                                  |
-| ---------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Novice     | 1      | Code infrequently or rarely uses well-named variables, is appropriately indented, or follows best-practices. Code is generally very messy and difficult to understand.                                                                       |
-| Developing | 2      | Code uses well-named variables, is appropriately indented, and follows best-practices in some but not all files. Code duplication is sparse. The code is of an acceptable quality for a new developer.                                       |
-| Proficient | 3      | Code uses well-named variables, is appropriately indented, and follows best-practices in all files. Code duplication is sparse. The code is of good quality for a new developer and does not contain unnecessary comments or logging.        |
-| Exemplary  | 4      | Code uses well-named variables, is appropriately indented, and follows best-practices in all files. Code does not repeat itself. The code quality is representative of a skilled coder and does not contain unnecessary comments or logging. |
+| Rating     | Points | Description                                                                                                                                                                                                                                                                           |
+| ---------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Novice     | 1      | Code infrequently or rarely uses well-named variables, appropriate indentation, or follows best-practices. Little to no effort to limit code duplication. There may be excessive irrelevant comments and logging. Code is generally difficult to understand.                          |
+| Developing | 2      | Code uses some well-named variables, sometimes uses appropriate indentation, and follows best-practices in some but not all files. Code duplication is limited. There are a limited number of unnecessary comments or logs. The code is of an acceptable quality for a new developer. |
+| Proficient | 3      | Code uses well-named variables, is appropriately indented, and follows best-practices in all files. Code duplication is sparse. The code is of good quality for a new developer and does not contain unnecessary comments or logging.                                                 |
+| Exemplary  | 4      | Code uses well-named variables, is appropriately indented, and follows best-practices in all files. Duplicate code has been condensed into flexible functions. The code quality is representative of a skilled coder and does not contain unnecessary comments or logging.            |
 
 ### Example
 
