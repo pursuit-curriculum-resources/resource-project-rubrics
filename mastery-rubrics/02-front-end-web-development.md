@@ -11,7 +11,7 @@ You should aim to score _Proficient_ on all of the criteria listed below. Each r
 | Novice     | 1      | The project is either unaligned to standard conventions or is too reliant on difficult to read, verbose files.                                                                                                                                                                                         |
 | Developing | 2      | The project is largely aligned to standard conventions, although more could be done to split up long or multi-purpose files. The project is over-reliant on in-class examples and does not always address the functionality required for this application.                                             |
 | Proficient | 3      | The project follows standard conventions for that type of project. Some original solutions relevant to the project have been implemented.                                                                                                                                                              |
-| Exemplary  | 4      | The project is architected like a professional software development project. Files are thoughtful segmented and there are clear program design choices that have been implemented throughout. The application has implemented original solutions that address the specific challenges of the features. |
+| Exemplary  | 4      | The project is architected like a professional software development project. Files are thoughtfully segmented and there are clear program design choices that have been implemented throughout. The application has implemented original solutions that address the specific challenges of the features. |
 
 ### Example
 
