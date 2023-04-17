@@ -9,9 +9,9 @@ You should aim to score _Proficient_ on all of the criteria listed below. Each r
 | Rating     | Points | Description                                                                                                                                                                                         |
 | ---------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Novice     | 1      | The Fellow struggles to provide their pitch due to its content, length, or manner.                                                                                                                  |
-| Developing | 2      | The Fellow presents a cogent and rehearsed personal pitch that introduces themselves and their journey in less than 3 minutes.                                                                      |
-| Proficient | 3      | The Fellow presents an authentic, explanatory, and enthusiastic personal pitch that introduces themselves and their journey in less than 3 minutes.                                                 |
-| Exemplary  | 4      | The Fellow presents an authentic, explanatory, and enthusiastic personal pitch that introduces themselves and their journey in less than 3 minutes and does so in a way that goes above and beyond. |
+| Developing | 2      | The Fellow presents a cogent and rehearsed personal pitch that introduces themselves and their journey in less than 2 minutes.                                                                      |
+| Proficient | 3      | The Fellow presents an authentic, explanatory, and enthusiastic personal pitch that introduces themselves and their journey in less than 2 minutes.                                                 |
+| Exemplary  | 4      | The Fellow presents an authentic, explanatory, and enthusiastic personal pitch that introduces themselves and their journey in less than 2 minutes and does so in a way that goes above and beyond. |
 
 #### Project pitch
 
@@ -22,14 +22,14 @@ You should aim to score _Proficient_ on all of the criteria listed below. Each r
 | Proficient | 3      | The Fellow presents a convincing project pitch that describes what problem the application solves and how it solves it.                                                                |
 | Exemplary  | 4      | The Fellow presents a convincing project pitch that describes what problem the application solves, how it solves it, and how it is unique from other applications currently available. |
 
-#### Presentation volume
+#### Projection and enunciation
 
-| Rating     | Points | Description                                                                                    |
-| ---------- | ------ | ---------------------------------------------------------------------------------------------- |
-| Novice     | 1      | The Fellow's volume is too low or unclear for the instructor to hear and understand.           |
-| Developing | 2      | The Fellow's volume is sufficiently loud and clear through less than half of the presentation. |
-| Proficient | 3      | The Fellow's volume is sufficiently loud and clear through at least 80% of the presentation.   |
-| Exemplary  | 4      | The Fellow's volume is sufficiently loud and clear throughout the entire presentation.         |
+| Rating     | Points | Description                                                                                                    |
+| ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |
+| Novice     | 1      | The Fellow does not project or enunciate well enough, making it difficult to hear and understand their speech. |
+| Developing | 2      | The Fellow sufficiently projects or enunciates through less than half of the presentation.                     |
+| Proficient | 3      | The Fellow sufficiently projects or enunciates through at least 80% the presentation.                          |
+| Exemplary  | 4      | The Fellow sufficiently projects or enunciates throughout the entire presentation.                             |
 
 #### Body language and tone
 
@@ -48,6 +48,15 @@ You should aim to score _Proficient_ on all of the criteria listed below. Each r
 | Developing | 2      | The Fellow walks through a piece of code chosen by the instructor, describing the problem the code solves and how it goes about solving that problem with a few misunderstandings.                  |
 | Proficient | 3      | The Fellow adeptly walks through a piece of code chosen by the instructor, describing the problem the code solves and how it goes about solving that problem.                                       |
 | Exemplary  | 4      | The Fellow expertly walks through a piece of code chosen by the instructor, describing the problem the code solves and how it goes about solving that problem using technical and precise language. |
+
+#### Code questions
+
+| Rating     | Points | Description                                                                                                                                                                  |
+| ---------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Novice     | 1      | When asked questions about their code, the Fellow is not able to describe how the code works. Any explanation is poor or vague in specificity.                               |
+| Developing | 2      | When asked questions about their code, the Fellow is able to describe some of how the code works in good detail. Some parts of the code cannot be explained by the Fellow.   |
+| Proficient | 3      | When asked questions about their code, the Fellow is able to describe how the code works in good detail, demonstrating technical understanding.                              |
+| Exemplary  | 4      | When asked questions about their code, the Fellow is able to describe how the code works in precise technical detail, demonstrating a high level of technical understanding. |
 
 #### Follow-up features
 
